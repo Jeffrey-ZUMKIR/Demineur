@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1605889976 source:d:\home\documents\ludus f2\algo\nouveau dossier\gitdemineur\demineur\jeudemineur\affichage.c
+	"define.h"
+
+1605889937 d:\home\documents\ludus f2\algo\nouveau dossier\gitdemineur\demineur\jeudemineur\define.h
+
+1605888685 source:d:\home\documents\ludus f2\algo\nouveau dossier\gitdemineur\demineur\jeudemineur\initialisation.c
+	"define.h"
+	<time.h>
+
+1605888704 source:d:\home\documents\ludus f2\algo\nouveau dossier\gitdemineur\demineur\jeudemineur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"define.h"
+	<windows.h>
+	<time.h>
+
+1605888418 source:d:\home\documents\ludus f2\algo\nouveau dossier\gitdemineur\demineur\jeudemineur\game.c
+	"define.h"
+	<stdio.h>
+
